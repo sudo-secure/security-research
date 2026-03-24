@@ -52,4 +52,4 @@ High (depending on database permissions and exposure)
 ---
 
 **Conclusion:**
-The vulnerability is caused by insecure handling of user input. Using parameterized queries and proper validation will mitigate this issue.
+The insecure handling of user input in fetchOrderData.php exposes the application to SQL Injection attacks. Implementing prepared statements and input validation will effectively remediate this issue and protect the integrity and confidentiality of the system's data.
