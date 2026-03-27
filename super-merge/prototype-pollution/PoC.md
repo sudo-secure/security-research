@@ -1,7 +1,7 @@
-# 🚨 Prototype Pollution in super-merge 
+# 🚨 Prototype Pollution in [super-merge](https://www.npmjs.com/package/super-merge) 
 
-https://www.npmjs.com/package/super-merge
-Version: Latest (as of discovery)
+
+Version: 1.0.0
 
 
 ## 📝 Description
