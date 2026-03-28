@@ -24,7 +24,7 @@ console.log('After:', obj.polluted); // true
 console.log(ob2j.polluted) // true
 ```
 
-№№ Impact
+## Impact
 This vulnerability can lead to:
 
 Privilege escalation - injecting isAdmin: true into all objects
