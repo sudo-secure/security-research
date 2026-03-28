@@ -19,3 +19,4 @@ Below are the vulnerabilities cataloged for the year **2026**. Each entry includ
 | 9 | **[stock-management](https://github.com/BouglaceMarouane/Stock-Management)** | SQL Injection| [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/stock-management/sql-injection/PoC.md) 
 | 10 | **[super-merge](https://www.npmjs.com/package/super-merge)** | Prototype Pollution| [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/super-merge/prototype-pollution/PoC.md) 
 | 11 | **[christopy/mergedeep](https://www.npmjs.com/package/@christopy/mergedeep?activeTab=code)** | Prototype Pollution| [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/christopy_mergedeep/prototype-pollution/PoC.md) 
+| 12 | **[brikcss/merge](https://www.npmjs.com/package/@brikcss/merge)** | Prototype Pollution| [🔗 View PoC](https://github.com/sudo-secure/security-research/edit/main/brikcss-merge/prototype-pollution/PoC.md) 
