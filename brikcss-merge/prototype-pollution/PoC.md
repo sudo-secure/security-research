@@ -11,7 +11,7 @@ When an attacker controls the source object being merged, they can inject proper
 ## Proof of Concept (PoC)
 
 ```js
-const merge = require('./merge.js');
+import merge from '@brikcss/merge';;
 
 let obj = {};
 let ob2j = {};
