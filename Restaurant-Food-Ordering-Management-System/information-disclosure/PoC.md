@@ -37,5 +37,5 @@ GET /api/business-insights/test?timeRange=* HTTP/1.1
 Host: food-ordering-backend.arnobmahmud.com
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36
 Accept: application/json
-
+```
 <img width="1523" height="200" alt="image" src="https://github.com/user-attachments/assets/7f06fa56-5fec-4325-8898-76c528dcf785" />
