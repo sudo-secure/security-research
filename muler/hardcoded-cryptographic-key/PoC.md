@@ -1,4 +1,4 @@
-# Hardcoded Cryptographic Key in [muller](https://www.npmjs.com/package/muler?activeTab=code) 
+# 👽 Hardcoded Cryptographic Key in [muller](https://www.npmjs.com/package/muler?activeTab=code) 
 
 Version: 1.1.1
 
