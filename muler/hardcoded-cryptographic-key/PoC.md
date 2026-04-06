@@ -1,5 +1,7 @@
 # Hardcoded Cryptographic Key in [muller](https://www.npmjs.com/package/muler?activeTab=code) 
 
+Version: 1.1.1
+
 ## Executive Summary
 The package contains a statically hardcoded encryption key (d6F3Efeq) used to protect user passwords. This key is identical for every installation of the library, making the encryption completely ineffective and rendering all stored credentials publicly readable by anyone who knows the key.
 
