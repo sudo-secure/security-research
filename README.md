@@ -28,3 +28,4 @@ Below are the vulnerabilities cataloged for the year **2026**. Each entry includ
 | 18 | **[Kipa Auction online-auction-system](https://github.com/amitrajstm/online-auction-system)** | Arbitrary User Deletion| [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/online-auction-system/arbitrary-user-deletion/PoC.md) 
 | 19 | **[muller](https://www.npmjs.com/package/muler)** | Hardcoded Cryptographic Key| [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/muler/hardcoded-cryptographic-key/PoC.md) 
 | 20 | **[json-tool](https://www.npmjs.com/package/json-tool)** | RCE via LFI | [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/json-tool/lfi-to-rce/PoC.md) 
+| 21 | **[fluid-publish](https://www.npmjs.com/package/fluid-publish)** | Command Injection | [🔗 View PoC](https://github.com/sudo-secure/security-research/blob/main/fluid-publish/command-injection/PoC.md) 
